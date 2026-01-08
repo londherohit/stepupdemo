@@ -1,0 +1,3 @@
+def mul :
+    return a*b
+    git status
